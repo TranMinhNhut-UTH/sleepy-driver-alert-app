@@ -48,10 +48,10 @@
         </activity>
 
         <!-- Foreground Service for Drowsiness Detection -->
-        <service
-            android:name=".DrowsinessDetectionService"
-            android:foregroundServiceType="camera"
-            android:exported="false" />
+<!--        <service-->
+<!--            android:name=".DrowsinessDetectionService"-->
+<!--            android:foregroundServiceType="camera"-->
+<!--            android:exported="false" />-->
 
         <!-- Metadata for ML Kit -->
         <meta-data
